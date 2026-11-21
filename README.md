@@ -18,6 +18,8 @@ deactivate when done
 ## run script
 python3 crawl.py
 
+read output in terminal
+
 check that csv file was saved with data
 
 
