@@ -11,7 +11,7 @@ pip install requests beautifulsoup4 pandas lxml
 OR
 pip install -r requirements.txt
 
-        pip freeze > requirements.txt       # to get a list of requirements
+- pip freeze > requirements.txt       # to get a list of requirements
 
 deactivate when done
 
