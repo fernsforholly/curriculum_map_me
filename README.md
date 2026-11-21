@@ -16,6 +16,6 @@ pip install -r requirements.txt
 deactivate when done
 
 ## run script
-python crawl.py
+python3 crawl.py
 
 check that csv file was saved with data
